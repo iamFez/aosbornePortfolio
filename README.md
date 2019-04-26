@@ -20,13 +20,13 @@ Linux (Various flavors), Apache, MariaDB, MySQL, Cisco IOS, IOS XE and XR, DNS, 
 After finishing my work term and graduating from NSCC I plan to take a short break before beginning my search for employment. In the meantime, I will continue to touch up my skills and study to take Microsoft Certified Solutions Associate (MCSA) exams 70-740, 70-741 and 70-742.
 
 ## Portfolio
-If you would like to see some of the work I have been involved with, then this is where you should start.
+If you would like to see some of the work I have been involved with, then this is where you should start. My work has been categorized and contains accompanying descriptions of the content provided.
 
-If you would like to see some of my work in the Windows environment, go here:
+If you would like to see some of my work in the Windows environment, see [here](portfolio/Windows).
 
-If you would like to see some of my work in the Linux environment, go here:
+If you would like to see some of my work in the Linux environment, see [here](portfolio/Linux).
 
-If you would like to see some of my work with small to enterprise-level networks, go here:
+If you would like to see some of my work with small to enterprise-level networks, see [here](portfolio/Networking).
 
 
 ## Contact Me
@@ -34,7 +34,7 @@ If you would like to get into contact with me, you can do so using the following
 
 &nbsp;<img src="images/iconEmail.png" width="16" height="12"> aosborne.systems@gmail.com
 
-&nbsp;</pre><img src="images/iconPhone.png" width="16" height="16"> (902) 405-0256
+&nbsp;</pre><img src="images/iconPhone.png" width="16" height="16"> <a href="tel:1-902-405-0256">(902) 405-0256</a>
 
 <img src="images/iconTwitter.png" width="24" height="24">[@aosborne_sys](https://twitter.com/aosborne_sys)
 
