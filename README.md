@@ -18,5 +18,7 @@ I am an aspiring Systems Administrator with preference for Linux Administration.
 
 ## Contact Me
 If you would like to get into contact with me, you can do so using the following:
+
 Email: aosborne.systems@gmail.com
+
 Twitter: @aosborne_sys
