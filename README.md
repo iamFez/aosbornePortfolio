@@ -6,7 +6,8 @@
 2. [What have I done so far?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#what-have-i-done-so-far)
 3. [Where will I go from here?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#where-will-i-go-from-here)
 4. [Portfolio](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#portfolio)
-5. [Contact Me](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#contact-me)
+5. [Resume](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#resume)
+6. [Contact Me](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#contact-me)
 
 ## Who am I?
 IT Systems Management & Security graduate experienced with managing both physical and virtual Linux and Windows environments and small to enterprise-level networks. Though I have limited real world experience, I am passionate about the work I do and eager and willing to learn.
@@ -28,6 +29,8 @@ If you would like to see some of my work in the Linux environment, see [here](po
 
 If you would like to see some of my work with small to enterprise-level networks, see [here](portfolio/Networking).
 
+## Resume
+If you would like to hire me, or are simply interested in my education, experience and qualifications, my resume can be found [here](resume/).
 
 ## Contact Me
 If you would like to get into contact with me, you can do so using the following:
@@ -40,4 +43,4 @@ If you would like to get into contact with me, you can do so using the following
 
 
 
-<span style="font-size:6em;">All images used on this page are free-use and follow their respective guidelines.</span>
+All images used on this page are free-use and follow their respective guidelines.
