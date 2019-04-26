@@ -1,5 +1,5 @@
 # Alexander Lloyd Osborne
-[Self-portait](images/selfPortrait)
+![Self-portait][images/selfPortrait]
 
 ## Table of Contents
 1. [Who Am I?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#who-am-i)
