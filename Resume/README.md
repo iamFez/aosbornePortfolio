@@ -1,2 +1,2 @@
 # Resume
-<img src="./images/portfolioImage.png">
+<img src="/images/resumeImage.png">
