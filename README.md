@@ -5,8 +5,8 @@
 1. [Who Am I?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#who-am-i)
 2. [What have I done so far?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#what-have-i-done-so-far)
 3. [Where will I go from here?](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#where-will-i-go-from-here)
-4. [Contact Me](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#contact-me)
-5. [Portfolio](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#portfolio)
+4. [Portfolio](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#portfolio)
+5. [Contact Me](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#contact-me)
 
 ## Who am I?
 IT Systems Management & Security graduate experienced with managing both physical and virtual Linux and Windows environments and small to enterprise-level networks. Though I have limited real world experience, I am passionate about the work I do and eager and willing to learn.
