@@ -36,4 +36,4 @@ If you would like to get into contact with me, you can do so using the following
 
 Phone: (902) 405-0256
 
-Twitter: [@aosborne_sys](https://twitter.com/aosborne_sys)
+<img src="images/logoTwitter.png" width=16" height=12"> Twitter: [@aosborne_sys](https://twitter.com/aosborne_sys)
