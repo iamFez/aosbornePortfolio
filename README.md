@@ -21,4 +21,4 @@ If you would like to get into contact with me, you can do so using the following
 
 Email: aosborne.systems@gmail.com
 
-Twitter: @aosborne_sys
+Twitter: [@aosborne_sys](https://twitter.com/aosborne_sys)
