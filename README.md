@@ -39,4 +39,5 @@ If you would like to get into contact with me, you can do so using the following
 <img src="images/iconTwitter.png" width="24" height="24">[@aosborne_sys](https://twitter.com/aosborne_sys)
 
 
-<span style="font-size:6em;">All images used are free-use and follow their respective guidelines.</span>
+
+<span style="font-size:6em;">All images used on this page are free-use and follow their respective guidelines.</span>
