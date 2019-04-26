@@ -30,7 +30,7 @@ If you would like to see some of my work in the Linux environment, see [here](po
 If you would like to see some of my work with small to enterprise-level networks, see [here](portfolio/Networking).
 
 ## Resume
-If you would like to hire me, or are simply interested in my education, experience and qualifications, my resume can be found [here](resume/).
+If you would like to hire me, or are simply interested in my education, experience and qualifications, my resume can be found [here](Resume/).
 
 ## Contact Me
 If you would like to get into contact with me, you can do so using the following:
