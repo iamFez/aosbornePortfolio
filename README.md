@@ -10,7 +10,7 @@
 6. [Contact Me](https://github.com/iamFez/aosbornePortfolio/blob/master/README.md#contact-me)
 
 ## Who am I?
-IT Systems Management & Security graduate experienced with managing both physical and virtual Linux and Windows environments and small to enterprise-level networks. Though I have limited real world experience, I am passionate about the work I do and eager and willing to learn.
+IT Systems Management & Security graduate experienced with managing both physical and virtual Linux and Windows environments and small to enterprise-level networks. Though I have limited real-world experience, I am passionate about the work I do and eager and willing to learn.
 
 ## What have I done so far?
 Whilst attending Nova Scotia Community College (NSCC) for my high school diploma in 2016, I was given the opportunity to work towards a diploma in IT Systems Management & Security. From January 2017 until now I have been learning the ins and outs of many technologies, including but not limited to:
