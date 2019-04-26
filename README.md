@@ -34,7 +34,7 @@ If you would like to get into contact with me, you can do so using the following
 
 &nbsp;<img src="images/iconEmail.png" width="16" height="12"> aosborne.systems@gmail.com
 
-&nbsp;</pre><img src="images/iconPhone.png" width="16" height="16"> <a href="tel:1-902-405-0256">(902) 405-0256</a>
+&nbsp;</pre><img src="images/iconPhone.png" width="16" height="16"> <a href="tel:+1-902-405-0256">(902) 405-0256</a>
 
 <img src="images/iconTwitter.png" width="24" height="24">[@aosborne_sys](https://twitter.com/aosborne_sys)
 
