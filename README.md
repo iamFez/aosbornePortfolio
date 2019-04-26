@@ -10,7 +10,7 @@
 6. 
 
 ## Who am I?
-I am an aspiring Systems Administrator with preference for Linux Administration. I am an NSCC Alumni who has graduated NSCC with a Systems Management & Security diploma. I am experienced with managing both physical and virtual Linux and Windows environments, small to enterprise-level networks and
+I am experienced with managing both physical and virtual Linux and Windows environments, small to enterprise-level networks and
 
 ## What have I done so far?
 
