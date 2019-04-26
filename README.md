@@ -10,7 +10,7 @@
 6. 
 
 ## Who am I?
-I am experienced with managing both physical and virtual Linux and Windows environments, small to enterprise-level networks and
+IT Systems Management & Security graduate experienced with managing both physical and virtual Linux and Windows environments and small to enterprise-level networks. Though I have limited real world experience, I am passionate about the work I do and eager and willing to learn.
 
 ## What have I done so far?
 
