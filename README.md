@@ -1,2 +1,15 @@
-# aosbornePortfolio
-This repository contains information on myself and my work. This includes personal information, details on networking, linux and windows projects and images of said projects.
+# Alexander Lloyd Osborne
+
+## Table of Contents
+1. Who Am I?
+2. What have I done so far?
+3. Where will I go from here?
+4. Contact Me
+
+## Who am I?
+
+## What have I done so far?
+
+## Where will I go from here?
+
+## Contact Me
