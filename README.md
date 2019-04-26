@@ -17,7 +17,7 @@ Whilst attending Nova Scotia Community College (NSCC) for my high school diploma
 Linux (Various flavors), Apache, MariaDB, MySQL, Cisco IOS, IOS XE and XR, DNS, DHCP, VPN, Firewalls, IDS/IPS, Windows Server, Active Directory, GPO, SCCM, SCO, VMWare, ESXi, Hyper-V, WSUS and LDAP. 
 
 ## Where will I go from here?
-After finishing my work term and graduating from NSCC I plan to take a short break before beginning my search for employment. In the meantime, I will continue to touch up my skills and study to take the Cisco Certified Network Associate (200-125) exam.
+After finishing my work term and graduating from NSCC I plan to take a short break before beginning my search for employment. In the meantime, I will continue to touch up my skills and study to take Microsoft Certified Solutions Associate (MCSA) exams 70-740, 70-741 and 70-742.
 
 ## Portfolio
 If you would like to see some of the work I have been involved with, then this is where you should start:
