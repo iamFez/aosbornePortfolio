@@ -17,4 +17,4 @@ If you would like to view some of my work on small to enterprise-level networks,
 <img src="images/cisco.png" width="200" height="125">
 
 
-All images used on this page are free-use and follow their respective guidelines.
+All images used on this page are free-use and follow their respective guidelines. For links to the images used, see [here](images/).
