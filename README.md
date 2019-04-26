@@ -32,7 +32,7 @@ If you would like to see some of my work with small to enterprise-level networks
 ## Contact Me
 If you would like to get into contact with me, you can do so using the following:
 
-<img src="images/logoEmail.png" width="16" height="12"> Email: aosborne.systems@gmail.com
+ <img src="images/logoEmail.png" width="16" height="12">  Email: aosborne.systems@gmail.com
 
 Phone: (902) 405-0256
 
