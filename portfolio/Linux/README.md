@@ -30,10 +30,9 @@ For the final of one of our Linux courses, I was tasked with the creation and co
 <img src="images/rescuediskImage02.png">
 
 ## Capstone (Book of Arcana)
-A large part of our final semester involved working with a team of individuals from multiple streams (programming, web development, systems) towards the creation of a 'product' of our choosing. I was a part of a team consisting of two programmers, two systems administrators and a web developer. As a part of this team, I helped with the documentation, user and file management on a remotely-hosted CentOS 7 server and asset creation.
+A large part of our final semester involved working with a team of individuals from multiple streams (programming, web development, systems) towards the creation of a 'product' of our choosing. I was a part of a team consisting of two programmers, two systems administrators and a web developer. As a part of this team, I helped with installing the required dependencies for both our game and web servers, our documentation, asset creation and user and file management on a remotely-hosted CentOS 7 server.
 
-<img src="images/capstoneImage01.png">
+<img src="images/capstoneImage01.jpg">
 
 <img src="images/capstoneImage02.png">
 
-<img src="images/capstoneImage03.png">
