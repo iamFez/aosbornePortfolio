@@ -9,9 +9,10 @@ An interesting contrast to Active Directory was the installation and configurati
 <img src="images/identManageImage01.png">
 
 ## Scripting
-Scripting was a major asset and something that I enjoyed immensely. Throughout my time with NSCC I created scripts for user and group management and to get system information and activity.
+Scripting was a major asset and something that I enjoyed immensely. Throughout my time with NSCC I created scripts for file manipulation, user and group management and to get system information and activity.
 
 <img src="images/scriptImage01.png">
+<p align="center">(Results from a script that manipulated text files, read the system version and grabbed processes being run by group ID 0.)</p>
 
 <img src="images/scriptImage01.png">
 
