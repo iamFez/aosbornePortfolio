@@ -7,7 +7,7 @@ I am also experienced with bash scripting and task automation using cronjobs. On
 An interesting contrast to Active Directory was the installation and configuration of FreeIPA for Identity Management. This was used to monitor and track users, groups and hosts on our domain.
 
 <img src="images/identManageImage01.png">
-(An image of my freeIPA Identity Management dashboard.) 
+(An image of my freeIPA Identity Management dashboard, showing the active users in the domain.) 
 
 ## Scripting
 Scripting was a major asset and something that I enjoyed immensely. Throughout my time with NSCC I created scripts for file manipulation, user and group management and to get system information and activity.
