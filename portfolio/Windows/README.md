@@ -22,7 +22,7 @@ During our enterprise networking course, we were required to configure a Windows
 
 <img src="images/sccmImage01.png">
 (Summary of an SCCM installation showing the configuration used.)
-
+<br>
 
 <img src="images/sccmImage02.png">
 (A successful deployment of Adobe Reader to a node on the network using SCCM.)
