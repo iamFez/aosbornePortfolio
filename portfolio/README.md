@@ -16,5 +16,8 @@ If you would like to view some of my work on small to enterprise-level networks,
 
 <img src="images/cisco.png" width="200" height="125">
 
+## Plans, Designs and Documentation
+If you would like to see some of my more miscellaneous work, including plans, designs and documentation, see [here](Misc/).
+
 
 All images used on this page are free-use and follow their respective guidelines. For links to the images used, see [here](images/).

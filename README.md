@@ -29,6 +29,8 @@ If you would like to see some of my work in the Linux environment, see [here](po
 
 If you would like to see some of my work with small to enterprise-level networks, see [here](portfolio/Networking).
 
+If you would like to see some of my more miscellaneous work, including plans, designs and documentation, see [here](portfolio/Misc).
+
 ## Resume
 If you would like to hire me, or are simply interested in my education, experience and qualifications, my resume can be found [here](Resume/).
 
