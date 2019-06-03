@@ -12,17 +12,17 @@ Throughout my time spent with NSCC, whenever we were tasked with work within the
 <img src="images/dhcpImage02.png">
 (Further details on the creation of a DHCP scope in Windows Server 2016, displaying IP range and subnet mask.)
 
-## Windows Deployment Services (WDS)
-As a part of an assignment within our enterprise networking course, we were tasked with creating and deploying a sysprepped Windows 10 image to a virtual workstation over a network using WDS. We also learned how to do both attended and unattended installations.
+## Windows Server 2016 Core
+Though we only covered it once, during our first semester we created and configured a Windows Server 2016 R2 DataCenter Core installation for use as a file server.
 
-<img src="images/wdsImage01.png">
+<img src="images/serverCoreImage01.png">
+(Image of the console of a fully-updated Server 2016 R2 Datacenter core installation, using sconfig to run updates.)
 
 ## System Center Configuration Manager (SCCM)
 During our enterprise networking course, we were required to configure a Windows Server 2016 virtual machine with SCCM. Afterwards, we used SCCM to manage computers and sites, and to deploy applications to nodes on our network.
 
 <img src="images/sccmImage01.png">
 (Summary of an SCCM installation showing the configuration used.)
-<br>
 
 <img src="images/sccmImage02.png">
 (A successful deployment of Adobe Reader to a node on the network using SCCM.)
