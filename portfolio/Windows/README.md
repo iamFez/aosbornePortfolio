@@ -18,11 +18,11 @@ Though we only covered it once, during our first semester we created and configu
 <img src="images/serverCoreImage01.png">
 (Image of the console of a fully-updated Server 2016 R2 Datacenter core installation, using sconfig to run updates.)
 
-## System Center Configuration Manager (SCCM)
-During our enterprise networking course, we were required to configure a Windows Server 2016 virtual machine with SCCM. Afterwards, we used SCCM to manage computers and sites, and to deploy applications to nodes on our network.
+## Windows Server Update Services (WSUS)
+Once during both our first and second semesters we were required to configure WSUS to deploy updates to nodes on the network.
 
-<img src="images/sccmImage01.png">
-(Summary of an SCCM installation showing the configuration used.)
+<img src="images/wsusImage01.png">
+(Image of the WSUS snap-in showing available workstations to be updated.)
 
 <img src="images/sccmImage02.png">
 (A successful deployment of Adobe Reader to a node on the network using SCCM.)
