@@ -7,13 +7,16 @@ I am also experienced with bash scripting and task automation using cronjobs. On
 An interesting contrast to Active Directory was the installation and configuration of FreeIPA for Identity Management. This was used to monitor and track users, groups and hosts on our domain.
 
 <img src="images/identManageImage01.png">
+(An image of my freeIPA Identity Management dashboard, showing the active users in the domain.) 
 
 ## Scripting
-Scripting was a major asset and something that I enjoyed immensely. Throughout my time with NSCC I created scripts for user and group management and to get system information and activity.
+Scripting was a major asset and something that I enjoyed immensely. Throughout my time with NSCC I created scripts for file manipulation, user and group management and to get system information and activity.
 
 <img src="images/scriptImage01.png">
+(Results from a script that manipulated text files, read the system version and grabbed processes being run by group ID 0.)
 
-<img src="images/scriptImage01.png">
+<img src="images/scriptImage02.png">
+(Further results from the same script, showing process owned by group ID 0 and the PID of the firewalld process.)
 
 ## Rescue Disk
 For the final of one of our Linux courses, I was tasked with the creation and configuration of a Linux rescue disk. As a part of the creation of this rescue disk, I modified a base install of Bodhi Linux with custom boot text, a custom background and pre-installation of the following software:
@@ -26,13 +29,16 @@ For the final of one of our Linux courses, I was tasked with the creation and co
 * btrfs-tools
 
 <img src="images/rescuediskImage01.png">
+(An image of the bootloader used to mount the rescue disk.)
 
 <img src="images/rescuediskImage02.png">
+(A modified GRUB boot menu.)
 
 ## Capstone (Book of Arcana)
 A large part of our final semester involved working with a team of individuals from multiple streams (programming, web development, systems) towards the creation of a 'product' of our choosing. I was a part of a team consisting of two programmers, two systems administrators and a web developer. As a part of this team, I helped with installing the required dependencies for both our game and web servers, our documentation, asset creation and user and file management on a remotely-hosted CentOS 7 server.
 
 <img src="images/capstoneImage01.jpg">
+(Banner image of a town within the game, along with the game logo.)
 
 <img src="images/capstoneImage02.png">
-
+(An image of our web server's directory and permissions.)
