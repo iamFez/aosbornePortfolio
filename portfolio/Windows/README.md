@@ -26,9 +26,11 @@ During our enterprise networking course, we were required to configure a Windows
 <img src="images/sccmImage02.png">
 (A successful deployment of Adobe Reader to a node on the network using SCCM.)
 
-## System Center Orchestrator (SCO)
-Towards the end of our program we installed and configured SCO in order to manage users and groups within our Domain using runbooks. 
+## Folder redirection and drive mapping
+One assignment in our first semester had us learn how to configure folder redirection and drive mapping for users within the domain using group policy.
 
-<img src="images/scoImage01.png">
+<img src="images/foldersImage01.png">
+(Documents and pictures successfully being redirected to the users' network drive.)
 
-<img src="images/scoImage02.png">
+<img src="images/driveImage01.png">
+(Network drive that has been automatically deployed using group policy.)
