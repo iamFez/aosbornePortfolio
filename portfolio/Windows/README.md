@@ -13,7 +13,7 @@ Throughout my time spent with NSCC, whenever we were tasked with work within the
 (Further details on the creation of a DHCP scope in Windows Server 2016, displaying IP range and subnet mask.)
 
 ## Windows Server 2016 Core
-Though we only covered it once, during our first semester we created and configured a Windows Server 2016 R2 DataCenter Core installation for use as a file server. I liked this one as it was the final for our first Windows adminitration courses and I really enjoyed working exclusively in shell.
+Though we only covered it once, during our first semester we created and configured a Windows Server 2016 R2 DataCenter Core installation for use as a file server. I liked this one as it was the final for our first Windows adminitration course and I really enjoyed working exclusively in shell.
 
 <img src="images/serverCoreImage01.png">
 (Image of the console of a fully-updated Server 2016 R2 Datacenter core installation, using sconfig to run updates.)
